@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/houfangdong">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houfangdong&hide=html,golang" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houfangdong&theme=blueberry&hide=html,golang" />
 </a>
